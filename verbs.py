@@ -3,7 +3,7 @@ from tkinter import filedialog
 from tkinter.filedialog import *
 
 root = Tk()
-root.title("Do learn English irregular verbs")
+root.title("learn English irregular verbs")
 root.geometry('570x125')
 root.resizable(width=False, height=False)
 
